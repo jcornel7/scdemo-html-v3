@@ -5,7 +5,7 @@
 		{ value: 'Big Black Dildoes', price: '69.69'},
 		{ value: '  - Batman: Arkham City Robin Bundle Pack for Windows (Downloadable Content)' , price: '6.99' } ,
 		{ value: '  - Call of Duty: Modern Warfare 2 Stimulus Pack (Downloadable Content)' , price: '14.99' } ,
-		{ value: '  - Fallout New Vegas: Gun Runners' Arsenal for PlayStation 3 (Downloadable Content)' , price: '9.99' } ,
+		{ value: '  - Fallout New Vegas: Gun Runners Arsenal for PlayStation' , price: '9.99' } ,
 		{ value: '  - Uncharted 2: Among Thieves Sidekick Skin Pack for PS3 (Downloadable Content)' , price: '2.99' } ,
 		{ value: '007 Legends - PRE-OWNED - Nintendo Wii U' , price: '9.99' } ,
 		{ value: '007 Legends — PRE-OWNED - PlayStation 3' , price: '9.99' } ,
